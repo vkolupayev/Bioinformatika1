@@ -11,8 +11,10 @@ Gautas kodonu medis:
 Gautas dikodonu medis:
 ![Dicodon_cluster](https://github.com/vkolupayev/Bioinformatika1/blob/main/ClustersByDicodonRate.jpg?raw=true)
 
-Issiskiria Variola virusas is zinduoliu virusu, kadangi jis pagal kodonu dikodonu daznius artimesnis tyrinetom bakteriju kodonu dikodonu dazniam.
+Issiskiria Variola virusas is zinduoliu virusu, kadangi jis pagal kodonu, dikodonu daznius artimesnis tyrinetom bakteriju kodonu, dikodonu dazniam.
 
-Na ir bakteriju virusas Escherichia artimesnis zinduoliu virusam.
+Na ir bakteriju virusas Escherichia phage artimesnis zinduoliu virusam.
 
-Herpes Virus didziausia isskirtis.
+Herpes Virus ir Cellulophaga didziausi atstumai.
+
+Kodonu ir Dikodonu medziai beveik identiski, skiriasi tik atstumai.
