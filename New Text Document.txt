@@ -1,0 +1,16 @@
+# Bioinformatika
+
+Atstumai Skaiciuoti Pagal RMSD formulę. SQRT(SUM((a-b)^2))/n).
+
+Kodonu ir dikodonu daznius skaiciavau kiekvienam sekos(pagal 6 RF) atfiltruotiem baltymams. Standartizavau daznius atskirai kodonam ir dikodonam.
+
+Gal but kazkur ne taip supratau uzduoti. Jei galima pasitaisyciau!
+
+Gautas medis:
+![Tree of Clusters](https://github.com/vkolupayev/Bioinformatika/blob/main/Clusters.jpg?raw=true)
+
+Issiskiria Variola virusas is zinduoliu virusu, kadangi jis pagal kodonu dikodonu daznius artimesnis tyrinetom bakteriju kodonu dikodonu dazniam.
+
+Na ir bakteriju virusas Escherichia artimesnis zinduoliu virusam.
+
+Herpes Virus didziausia isskirtis.
